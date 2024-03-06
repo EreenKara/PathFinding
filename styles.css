@@ -1,0 +1,27 @@
+#game{
+    display: flex;
+    gap: 2%;
+}
+#configs{
+    position: absolute;
+    left: 700px;
+    display: flex;
+    gap: 2%;
+    flex-direction: column;
+}
+#calculate{
+    margin-top: 20px;
+}
+.sizes{
+    display: flex;
+    flex-direction: row;
+    width: 400px;
+    gap:3%
+}
+.inline{
+    display: inline;
+}
+.sinir{
+    width: 160px;
+
+}
