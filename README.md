@@ -14,3 +14,8 @@ https://github.com/EreenKara/PathFinding/assets/103642801/6daea822-e908-45fb-b8f
 # Either Find in Black Area or Gray Area
 https://github.com/EreenKara/PathFinding/assets/103642801/ead4cac1-0c11-4696-b1d4-e51afed62b1d
 
+# Not Heuristic Method BFS vs Heuristic method A*
+https://github.com/EreenKara/PathFinding/assets/103642801/141c19e0-6f65-46eb-aa9f-8b5c1af4dc26
+
+
+
